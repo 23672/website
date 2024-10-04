@@ -19,11 +19,11 @@ const exp = [
     desp: "<li>Worked with our kits to create a bot that could go as fast as possible</li><li>Learned how different parts and wheels can effect the speed of a cart and different practices to make it go faster</li><li>Also went around the school driving the bot to test different things with it</li>",
   },
   {
-    title: "Research Intern",
+    title: "Project 3",
     cardImage: "assets/images/experience-page/Imageless.png",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    place: "N/A",
+    time: "N/A",
+    desp: "<li>N/A</li><li>N/A</li>",
   },
 ];
 
@@ -62,10 +62,10 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "GirlScript Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/1.jpg",
+     title: "N/A",
+    cardImage: "assets/images/experience-page/Imageless.png",
     description:
-      "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
+      "N/A",
   },
   {
     title: "N/A",
