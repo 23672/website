@@ -21,9 +21,9 @@ const exp = [
   {
     title: "Project 3",
     cardImage: "assets/images/experience-page/Imageless.png",
-    place: "N/A",
-    time: "N/A",
-    desp: "<li>N/A</li><li>N/A</li>",
+    place: "Coding And Sensors",
+    time: "(October 1, - October 16)",
+    desp: "<li>Created a robot based on code instead of a control and had it traverse different obstacles</li><li>N/A</li>",
   },
 ];
 
@@ -122,7 +122,7 @@ const mentor = [
     subtitle: "Progress Picture",
     image: "assets/images/experience-page/Imageless.png",
     desp: "Process of creating the hangout design (waiting on gaop for image)",
-    href: "https://ulhacks.com/",
+    href: "https://roboticshs.netlify.app/experience.html",
   },
   {
     title: "N/A",
