@@ -6,7 +6,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Project 1",
-    cardImage: "assets/images/experience-page/unamed2.jpg",
+    cardImage: "assets/images/experience-page/unnamed.jpg",
     place: "Shapes & Hangout",
     time: "(Aug, 22 - Aug, 26)",
     desp: "<li>Shapes: Worked with our robotics kit to create an assortment of different shapes</li> <li>Worked with our kits and parts around the room to create a robot that can hang as far off the table as possible</li> <li>Learned how to innotvatively use different pieces and screws to tighten the shape along with learning how to balance the weight of our builds</li>",
