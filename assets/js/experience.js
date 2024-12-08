@@ -29,8 +29,8 @@ const exp = [
     title: "Project 4",
     cardImage: "assets/images/experience-page/Imageless.png",
     place: "Health bot",
-    time: "(October 1, - October 16)",
-    desp: "<li>Created a robot fully reliant on code instead of a controller as the previous challenges have asked for and we had it traverse different obstacles such as going around a square, going around the classroom and going to different parts in the school</li><li>N/A</li>",
+    time: "(November 25th, - December 5th)",
+    desp: "<li>In the Med-Bot Challenge there is a hospital setup with 6 different rooms, we were tasked to code the robot to go to each of the rooms go to an elevator and then go back to the starting area.</li><li>The work with my partner went well as we both understood our roles along with knowing we were tasked with building this due to the real world applications</li>",
   },
 ];
 
