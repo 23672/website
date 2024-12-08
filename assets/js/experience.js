@@ -64,55 +64,6 @@ const showCards2 = () => {
 };
 document.addEventListener("DOMContentLoaded", showCards2);
 
-// Volunteership Cards
-
-const volunteership = document.querySelector(".volunteership");
-const volunteershipcards = [
-  {
-     title: "N/A",
-    cardImage: "assets/images/experience-page/Imageless.png",
-    description:
-      "N/A",
-  },
-  {
-    title: "N/A",
-    cardImage: "assets/images/experience-page/Imageless.png",
-    description:
-      "N/A",
-  },
-  {
-    title: "N/A",
-    cardImage: "assets/images/experience-page/Imageless.png",
-    description:
-      "N/A",
-  },
-  {
-    title: "N/A",
-    cardImage: "assets/images/experience-page/Imageless.png",
-    description:
-      "N/A",
-  },
-];
-
-const showCards = () => {
-  let output = "";
-  volunteershipcards.forEach(
-    ({ title, cardImage, description }) =>
-      (output += `        
-      <div class="card volunteerCard" data-aos="fade-down" data-aos-easing="linear" data-aos-delay="100" data-aos-duration="600" style="height: 550px;width:400px">
-      
-      <img src="${cardImage}" height="250" width="65" class="card-img" style="border-radius:10px">
-      <div class="content">
-          <h2 class="volunteerTitle">${title}</h2><br>
-          <p class="copy">${description}</p></div>
-      
-      </div>
-      `)
-  );
-  volunteership.innerHTML = output;
-};
-document.addEventListener("DOMContentLoaded", showCards);
-
 // Hackathon Section
 
 const hackathonsection = document.querySelector(".hackathon-section");
