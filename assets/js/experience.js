@@ -23,7 +23,14 @@ const exp = [
     cardImage: "assets/images/experience-page/Imageless.png",
     place: "Coding And Sensors",
     time: "(October 1, - October 16)",
-    desp: "<li>Created a robot based on code instead of a control and had it traverse different obstacles</li><li>N/A</li>",
+    desp: "<li>Created a robot fully reliant on code instead of a controller as the previous challenges have asked for and we had it traverse different obstacles such as going around a square, going around the classroom and going to different parts in the school</li><li>N/A</li>",
+  },
+{
+    title: "Project 4",
+    cardImage: "assets/images/experience-page/Imageless.png",
+    place: "Health bot",
+    time: "(October 1, - October 16)",
+    desp: "<li>Created a robot fully reliant on code instead of a controller as the previous challenges have asked for and we had it traverse different obstacles such as going around a square, going around the classroom and going to different parts in the school</li><li>N/A</li>",
   },
 ];
 
